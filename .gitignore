@@ -1,0 +1,28 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos de build e executáveis
+build/
+dist/
+release/
+*.spec
+*.exe
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e CSVs locais
+*.log
+registro_de_envios.csv
+
+# Configurações locais
+.env
+chrome_profile/
+
+# Pastas do VS Code
+.vscode/
