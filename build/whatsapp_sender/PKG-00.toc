@@ -1,0 +1,64 @@
+('C:\\Users\\Visitante\\Documents\\Victor\\Python '
+ 'Codes\\whatsapp_sender\\build\\whatsapp_sender\\whatsapp_sender.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\build\\whatsapp_sender\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\build\\whatsapp_sender\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\build\\whatsapp_sender\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\build\\whatsapp_sender\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\build\\whatsapp_sender\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\build\\whatsapp_sender\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('send_whatsapp',
+   'C:\\Users\\Visitante\\Documents\\Victor\\Python '
+   'Codes\\whatsapp_sender\\send_whatsapp.py',
+   'PYSOURCE')],
+ 'python314.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
